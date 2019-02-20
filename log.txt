@@ -1,0 +1,4 @@
+spotify-this-song,"rolling-in-the-deep"
+{"Artist(s)":"Adele","Album":"21","Link":"https://open.spotify.com/track/1CkvWZme3pRgbzaxZnTl5X"}
+movie-this,"the-godfather"
+{"Premiere year":"1972","IMDB Rating":"9.2","Rotten Tomatoes Rating":"98%","Country":"USA","Language":"English, Italian, Latin","Plot":"The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.","Actors":"Marlon Brando, Al Pacino, James Caan, Richard S. Castellano"}
