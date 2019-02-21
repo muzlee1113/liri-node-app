@@ -13,7 +13,12 @@ To get started please first follow the steps below
 1. Clone the whole repository and get into the directory in your terminal.
 2. In your terminal, type in  `npm install`  to set up all the required modules.
    For example, **axios**, **dotenv**, **inquirer**, **moment**, **node-spotify-api**.
-
+3. Set up you spotify api id and secret. Open the `keys.js` file put your id and secret instead. You can get yours by following the steps
+   1. Visit [spotify developer site](https://developer.spotify.com/my-applications/#!/)
+   2. Log in.
+   3. Navigate to [register a new application](https://developer.spotify.com/my-applications/#!/applications/create) to be used with the Spotify API. You can fill in whatever you'd like for these fields. When finished, click the `complete` button.
+   4. On the next screen, scroll down and you'll see client id and client secret. Copy and paste it into `key.js`
+   
 
 ## How to use it
 
