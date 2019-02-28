@@ -6,3 +6,11 @@ movie-this,"Lady Bird"
 {"Premiere year":"2017","IMDB Rating":"7.4","Rotten Tomatoes Rating":"99%","Country":"USA","Language":"English, Spanish","Plot":"In 2002, an artistically inclined seventeen-year-old girl comes of age in Sacramento, California.","Actors":"Saoirse Ronan, Laurie Metcalf, Tracy Letts, Lucas Hedges"}
 spotify-this-song,""I Want it That Way""
 {"Artist(s)":"Backstreet Boys","Album":"The Hits--Chapter One","Link":"https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6"}
+concert-this,"Ariana Grande"
+{"Artist(s)":"Ariana Grande","Venue":"Times Union Center at Albany, NY","Date":"03/18/2019"}
+spotify-this-song,"wake me up when september ends"
+{"Artist(s)":"Green Day","Album":"American Idiot","Link":"https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm"}
+movie-this,"Lady Bird"
+{"Premiere year":"2017","IMDB Rating":"7.4","Rotten Tomatoes Rating":"99%","Country":"USA","Language":"English, Spanish","Plot":"In 2002, an artistically inclined seventeen-year-old girl comes of age in Sacramento, California.","Actors":"Saoirse Ronan, Laurie Metcalf, Tracy Letts, Lucas Hedges"}
+spotify-this-song,""I Want it That Way""
+{"Artist(s)":"Backstreet Boys","Album":"The Hits--Chapter One","Link":"https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6"}

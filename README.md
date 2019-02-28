@@ -3,8 +3,8 @@
 ## Getting Started
 
 Liri is a node.js application that take in the search request of concerts, songs, movies from the user and return them with related information. 
-The whole application runs in terminal.
-Let's checkout this [demo](https://drive.google.com/file/d/1Mf1upAAAR5FbwtBLMYdhdRar7QD86CRD/view) to see what it is for.
+The whole application runs in terminal. Let's checkout the demos below to see what it is for.
+
 
 ### Prerequisites
 
@@ -25,21 +25,25 @@ To get started please first follow the steps below
 In your terminal, type in  `node liri.js`  to start the whole application.
 Then you'll see four options which are the four functions of the application: 
 - `concert-this`
+![](demos/concert&#32;it.gif)
   - this function is for searching information of concert or activity for certain artist or band, what you should do is:
     - select the first choice "concert-this" in the first prompt
     - input the name of the artist or band you're looking for in the second prompt
     - information will then show in the terminal
 - `spotify-this-song`
+![](demos/spotify&#32;it.gif)
   - this function is for searching information of a specific song, what you should do is:
     - select the second choice "spotify-this-song" in the first prompt
     - input the name of the song you're looking for in the second prompt
     - information will then show in the terminal
 - `movie-this`
+![](demos/movie&#32;this.gif)
   - this function is for searching information of a specific movie, what you should do is:
     - select the third choice "movie-this" in the first prompt
     - input the name of the movie you're looking for in the second prompt
     - information will then show in the terminal
 - `do-what-it-says`
+![](demos/do&#32;what&#32;it&#32;says.gif)
     - this function is going to grab the command saved in the random.txt file and run it, what you should do is:
       - select the fourth choice "do-what-it-says" in the first prompt
       - the command and the information will then show in the terminal
